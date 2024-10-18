@@ -1,7 +1,7 @@
 ### 🛠️ Build with `wasm-pack build`
 
 ```
-wasm-pack build
+wasm-pack build --target nodejs
 ```
 
 ### 🎁 Publish to NPM with `wasm-pack publish`
